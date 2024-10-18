@@ -1,11 +1,15 @@
 import logo from '@/assets/images/logo.png'
 import panditImage from '@/assets/images/panditImage.png'
 import backgroundCircle from '@/assets/images/background-circle.png'
+import exit from '@/assets/images/exit.png'
+import category from '@/assets/images/category.png'
 
 export const images = {
   logo,
   panditImage,
   backgroundCircle,
+  exit,
+  category,
 }
 
 // export const icons = {
